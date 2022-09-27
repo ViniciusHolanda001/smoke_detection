@@ -14,7 +14,7 @@ A ==Data Science== project to deploy a model that will read some data generated 
 
 ## Smoke Detection Dataset
 
-![Smoke_Detection](https://storage.googleapis.com/kaggle-datasets-images/2424784/4100314/43efb850e636fe8f8719a4801215c180/dataset-cover.jpg?t=2022-08-21-06-30-36)
+![Smoke_Detection](https://storage.googleapis.com/kaggle-datasets-images/2424784/4100314/43efb850e636fe8f8719a4801215c180/dataset-cover.jpg)
 
 ### Features
 * UTC           
@@ -63,7 +63,7 @@ Confusion Matrix
 
 
 Temperature -> ECO2
-![T&ECO2](https://github.com/ViniciusHolanda001/smoke_detection/blob/main/data/images/cfm.png)
+![T&ECO2](https://github.com/ViniciusHolanda001/smoke_detection/blob/main/data/images/temperature_eco2.png)
 
 
 ## References
