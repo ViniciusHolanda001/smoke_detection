@@ -14,7 +14,7 @@ A ==Data Science== project to deploy a model that will read some data generated 
 
 ## Smoke Detection Dataset
 
-![Smoke_Detection](https://storage.googleapis.com/kaggle-datasets-images/2424784/4100314/43efb850e636fe8f8719a4801215c180/dataset-cover.jpg)
+![Smoke_Detection](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRznbDftAYZ59Gnj8vpeI-2Aiw5G6f5VmRJWA&usqp=CAU)
 
 ### Features
 * UTC           
