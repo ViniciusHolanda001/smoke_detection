@@ -50,7 +50,7 @@ $Cost(\hat{y}$, y) =  $\frac{1}{2}(\Sigma(\theta^TX)-y)^2$
 J($\theta$) = $\frac{1}{m} \Sigma_{i=1}^{m} Cost(\hat{y}, y)$
 
 ### Logistic Regression Cost Function
-$J(\Theta)$ = -$\frac{1}{m} \Sigma_{i=1}^my^ilog(\hat{y}^i) + (1-y^i)log(1-\hat{y}^i)$
+$J(\Theta$) = $-\frac{1}{m} \Sigma_{i=1}^my^i log(\hat{y}^i) + (1-y^i)log(1-\hat{y}^i)$
 
 ## Images
 
